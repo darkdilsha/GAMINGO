@@ -1,0 +1,12 @@
+
+.navbar{
+  color: aliceblue;
+}
+.card{
+  margin-bottom: 50px;
+  height: 600px;
+}
+.card-text{
+  padding-bottom: 50px;
+  margin: bottom 50px;
+}
